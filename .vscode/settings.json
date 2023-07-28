@@ -1,0 +1,12 @@
+{
+    "dotnet.defaultSolution": "WNBOT.sln",
+    "cSpell.words": [
+        "shmeema",
+        "WNBOT"
+    ],
+    "material-icon-theme.activeIconPack": "qwik",
+    "material-icon-theme.files.color": "#903444",
+    "material-icon-theme.folders.color": "#40afff",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.iconTheme": "material-icon-theme"
+}
